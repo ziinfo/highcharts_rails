@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Includes Highcharts in a Rails asset pipeline}
   spec.description   = %q{Gem includes Highcharts (Interactive JavaScript charts for your web projects), in the Rails Asset Pipeline}
-  spec.homepage      = "https://github.com/ziinfo/highcharts-on-rails.git"
+  spec.homepage      = "https://github.com/ziinfo/highcharts_rails.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
