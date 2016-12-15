@@ -1,4 +1,4 @@
-# HighchartsRails
+# HighchartsRails [![Gem Version](https://badge.fury.io/rb/highcharts_rails.svg)](https://badge.fury.io/rb/highcharts_rails)
 
 This gem just includes [Highcharts](http://highcharts.com/) in Rails asset pipeline.
 Highcharts is not free for commercial use, so make sure you have a [valid license](http://highcharts.com/license) to use Highcharts.
