@@ -29,6 +29,13 @@ In your JavaScript manifest (e.g. `application.js`)
 
     //= require highcharts.src
 
+If you get an error:
+
+    highcharts.src is 'application/x-wais-source', not 'application/javascript'
+add `.js`
+    
+
+
 New chart types and features
 
     //= require highcharts-more.src
